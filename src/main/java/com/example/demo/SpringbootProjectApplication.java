@@ -19,3 +19,4 @@ void myMethod(){
 public String doPayment(){
 return "payment is successfull";
 }
+}
