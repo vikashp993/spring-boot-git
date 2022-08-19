@@ -10,9 +10,12 @@ public class SpringbootProjectApplication {
 	
 	SpringApplication.run(SpringbootProjectApplication.class, args);
 	
-    void myMethod(){
+   
 }
 
+void myMethod(){
+//logic
 }
-
+public String doPayment(){
+return "payment is successfull";
 }
