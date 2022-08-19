@@ -9,10 +9,14 @@ public class SpringbootProjectApplication {
 	public static void main(String[] args) {
 	
 	SpringApplication.run(SpringbootProjectApplication.class, args);
-	
+	}
     void myMethod(){
+
+
 }
 
+void process(){
+//logic
 }
 
 }
