@@ -11,10 +11,16 @@ public class SpringbootProjectApplication {
 	SpringApplication.run(SpringbootProjectApplication.class, args);
 	}
     void myMethod(){
+
+
 }
 
+void process(){
+//logic
+}
 void payment(){
 //logik
+
 }
 
 }
