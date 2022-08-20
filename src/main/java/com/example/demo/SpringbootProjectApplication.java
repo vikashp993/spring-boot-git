@@ -11,25 +11,12 @@ public class SpringbootProjectApplication {
 	SpringApplication.run(SpringbootProjectApplication.class, args);
 
 	}
-    void myMethod(){
+   
 
 
-}
-
-void process(){
-//logic
 
 	
    
 
-}
-void payment(){
-//logik
 
-void myMethod(){
-//logic
-}
-public String doPayment(){
-return "payment is successfull";
-}
 }
