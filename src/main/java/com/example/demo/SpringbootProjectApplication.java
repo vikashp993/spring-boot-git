@@ -18,6 +18,10 @@ public class SpringbootProjectApplication {
       //logik
 }
 
+
+void print(){
+}
+
       
 
 
