@@ -18,5 +18,9 @@ public class SpringbootProjectApplication {
 void process(){
 //logic
 }
+void payment(){
+//logik
+
+}
 
 }
