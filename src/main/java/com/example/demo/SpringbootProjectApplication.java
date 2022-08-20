@@ -9,6 +9,7 @@ public class SpringbootProjectApplication {
 	public static void main(String[] args) {
 	
 	SpringApplication.run(SpringbootProjectApplication.class, args);
+
 	}
     void myMethod(){
 
@@ -17,10 +18,18 @@ public class SpringbootProjectApplication {
 
 void process(){
 //logic
+
+	
+   
+
 }
 void payment(){
 //logik
 
+void myMethod(){
+//logic
 }
-
+public String doPayment(){
+return "payment is successfull";
+}
 }
