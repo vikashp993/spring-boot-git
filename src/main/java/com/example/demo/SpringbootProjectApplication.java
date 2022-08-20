@@ -12,13 +12,19 @@ public class SpringbootProjectApplication {
 
 	}
    
-      
-void process(){
-//logik
+
+
+     void dopayment(){
+      //logik
 }
+
 
 void print(){
 }
+
+      
+
+
 	
    
 
