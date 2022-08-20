@@ -13,9 +13,13 @@ public class SpringbootProjectApplication {
 	}
    
 
+
      void dopayment(){
       //logik
 }
+
+      
+
 
 	
    
