@@ -12,7 +12,10 @@ public class SpringbootProjectApplication {
 
 	}
    
-
+      
+void process(){
+//logik
+}
 
 
 	
