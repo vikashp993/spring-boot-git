@@ -17,7 +17,8 @@ void process(){
 //logik
 }
 
-
+void print(){
+}
 	
    
 
