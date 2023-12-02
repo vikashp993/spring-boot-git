@@ -12,7 +12,7 @@ public class SpringbootProjectApplication {
 
 	}
    
-
+System.out.println("vikash");
 
      void dopayment(){
       //logik
